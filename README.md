@@ -1,9 +1,7 @@
-# rePons: 
-## Manifeste pour un numérique local, autonome et fait maison
+# (repons) : Manifeste pour un numérique local, autonome et fait maison
+
 Auteur: Do Huynh - huynhdoo@protonmail.com
 Date: 5 juin 2020
-
-----
 
 # Propos
 Il est temps de passer d'un numérique centralisé et industriel à un numérique local et fait maison. Tout comme nous passons progressivement de la voiture au vélo électrique, de la télévision au cinéma à la carte, du surgelé à la cuisine fait-maison, le numérique doit effectuer aussi sa propre transformation pour passer d'un principe de consommation de masse à un principe de proximité. Tout comme vont devoir se développer des territoires autonomes et résilients en énergie, alimentation, production, etc., il s'agit d'accompagner ces transformation par la création d'outils d'autonomie numérique. C'est à cette condition que le numérique pourra répondre et s'intégrer aux enjeux sociaux et environnementaux des années à venir.
