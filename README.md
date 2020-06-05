@@ -16,7 +16,7 @@ En tant que père de famille, je refuse de faire du cerveau de mes filles une ma
 Aujourd'hui, un micro-ordinateur de type Raspberry est capable de répondre à tous les besoins numériques courants. La miniaturisation des composants ouvrent des applications encore inédites à des coûts énergétiques largement en deça des gros serveurs centralisés.
 
 # Principe
-Nous défendons l'idée de pouvoir déployer à tout endroit, à tout moment, avec les moyens locaux existants, un éco-système numérique local prêt à l'usage: mél, réseau social, bureautique, stockage, visioconférence, etc. Au-delà des outils, c'est toute une démarche humaine d'accompagnement à l'usage qui est également déployée en parralèle: formation, accompagnement des utilisateurs, création de nouveaux services répondant aux problèmatiques locales, gouvernance socio-technique, etc.
+Nous défendons l'idée de pouvoir déployer à tout endroit, à tout moment, avec les moyens locaux existants, un éco-système numérique local prêt à l'usage: mél, réseau social, bureautique, stockage, visioconférence, etc. Au-delà des outils, c'est toute une démarche humaine qui se déploie en parallèle: formation, accompagnement des utilisateurs, création de nouveaux services répondant aux problèmatiques locales, gouvernance socio-technique, etc.
 
 **3 principes** peuvent nous guider:
 1. **Un numérique ancré** = *dont la présence est évidente*. Il y a quelque chose d'exceptionnel à un spectacle en direct, à une performance sportive ou artistique, à tout processus de création, c'est son unicité de lieu et de temps. Les outils numériques doivent être ici et pas ailleurs pour servir pleinement la personne et sa communauté qui est ici et pas ailleurs.
