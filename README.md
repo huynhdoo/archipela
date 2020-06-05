@@ -10,7 +10,7 @@ Il est temps de passer d'un numérique centralisé et industriel à un numériqu
 # Retour aux racines
 La création d'internet répondait à un besoin de coopération universitaire et de résilience du réseau face à une menace géopolitique. Mais aujourd'hui, pourrions-nous nous passer réellement des GAFAM ? L'absence de leader européen sur ce domaine est une opportunité pour inventer un autre modèle, décentralisé et local où chaque territoire, chaque village, chaque foyer aurait la pleine possession de ses outils et le choix de les modifier, de les partager, de les supprimer. Bref de faire ou de défaire comme bon lui semble les outils numériques à l'instar de l'esprit défendu depuis toujours par l'open-source. 
 
-# Sortir d'un numérique tout-puisssant
+# Sortir d'un numérique tout-puissant
 En tant que père de famille, je refuse de faire du cerveau de mes filles une marchandise. Non, leurs désirs ne doivent pas être orientés par l'achat de tel ou tel produit. Non, elles doivent pouvoir choisir les outils sans être limitées au choix du plus grand nombre. Quand j'étais adolescent, on voulait tous porter des Nike ou des Rebook. Et ce désir mimétique est dur à combattre. Seul l'éducation et la culture permettent d'en sortir en proposant des alternatives, en les expliquant, en relativisant le goût dominant et permettre ainsi à un enfant d'exercer son désir en rapport avec la réalité des possibles.
 
 Aujourd'hui, un micro-ordinateur de type Raspberry est capable de répondre à tous les besoins numériques courants. La miniaturisation des composants ouvrent des applications encore inédites à des coûts énergétiques largement en deça des gros serveurs centralisés.
