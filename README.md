@@ -1,6 +1,7 @@
 # (repons) : Manifeste pour un numérique local, autonome et fait maison
 
 Auteur: Do Huynh - huynhdoo@protonmail.com
+
 Date: 5 juin 2020
 
 # Propos
