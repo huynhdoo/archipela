@@ -1,8 +1,9 @@
-# (repons) : Manifeste pour un numérique local, autonome et fait maison
+# (archipela) : Manifeste pour un numérique ancré, désiré et manuel
 
 Auteur: Do Huynh - huynhdoo@protonmail.com
 
-Date: 5 juin 2020
+Création: 5 juin 2020
+Mise à jour: 29 juillet 2020
 
 # Propos
 Il est temps de passer d'un numérique centralisé et industriel à un numérique local et fait maison. Tout comme nous passons progressivement de la voiture au vélo électrique, de la télévision au cinéma à la carte, du surgelé à la cuisine fait-maison, le numérique doit effectuer aussi sa propre transformation pour passer d'un principe de consommation de masse à un principe de proximité. Tout comme vont devoir se développer des territoires autonomes et résilients en énergie, alimentation, production, etc., il s'agit d'accompagner ces mutations par la création d'outils d'**autonomie numérique**. C'est à cette condition que le numérique pourra répondre et s'intégrer aux enjeux sociaux et environnementaux des années à venir.
@@ -23,7 +24,7 @@ Nous défendons l'idée de pouvoir déployer à tout endroit, à tout moment, av
 
 2. **Un numérique désiré** = *dont l'utilité doit être questionné*. On peut toujours planter un clou avec une chaussure ou un marteau. La question est de savoir lequel est le plus efficace si on a le choix. Et même si on n'a pas le choix, on doit pouvoir prendre une pierre pour planter ce clou. On doit aussi pouvoir décider de ne pas planter ce clou finalement. Bref, chacun devrait être libre de trouver son outil pour résoudre son problème à un instant donné.
 
-3. **Un numérique fait-maison** = *dont le goût n'est pas uniforme*. Un plat même le plus rudimentaire fait par quelqu'un que l'on voit aura toujours une saveur supérieure à celle de tout plat automatisé. Un numérique fabriqué à la main par des personnes vivant près de chez vous favorise les rencontres, les discussions, les adaptations et in-fine l'innovation et la durabilité des services.
+3. **Un numérique manuel** = *dont le goût n'est pas uniforme*. Un plat même le plus rudimentaire fait par quelqu'un que l'on voit aura toujours une saveur supérieure à celle de tout plat automatisé. Un numérique fabriqué à la main par des personnes vivant près de chez vous favorise les rencontres, les discussions, les adaptations et in-fine l'innovation et la durabilité des services.
 
 # De l'inutilité d'un modèle économique
 Faut-il un modèle économique ? Non, les utopies ne se posent pas cette question. A sa création, les concepteurs du réseau Arpanet, ancêtre de l'internet, ne se sont pas posés cette question. Galilé, Curie, etc. aucun inventeur(e), chercheur(e), explorateur.trice ne se pose d'abord cette question car seuls le désir de trouver une solution, de comprendre le monde, de faire avancer l'humanité compte. Penser au modèle économique dès le début est une mauvaise approche car elle bride nécessairement la créativité pour la rabaisser au plan de la subsistance. Si cela est utile, alors cela (sur)vivra. Point.
@@ -34,4 +35,4 @@ Le numérique s'est toujours basé sur une approche industrielle à grande éche
 # Références
 - [Sur l'esprit de l'open-source](https://wptavern.com/linus-torvalds-explains-how-open-source-led-to-the-success-of-linux)
 - [Sur la misère symbolique](http://arsindustrialis.org/mis%C3%A8re-symbolique#:~:text=La%20mis%C3%A8re%20symbolique%20est%20la,et%20de%20la%20vie%20sensible.)
-- [Sur l'origine du terme repons](https://fr.wikipedia.org/wiki/R%C3%A9pons)
+- [Sur l'origine du concept d'archipélisation](https://framablog.org/2019/12/10/archipelisation-comment-framasoft-concoit-les-relations-quelle-tisse/)
